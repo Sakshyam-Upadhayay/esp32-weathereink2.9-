@@ -1,0 +1,4 @@
+build/
+tools/lilas.conf
+LilasWeatherEink/provision.h.orig
+.pio/
